@@ -1,12 +1,13 @@
 # MagicSquare
 
-Generates a valid magic square using branch and bound algorithm.
-The size of the magic square can be changed.
+Generates a valid magic square using branch and bound algorithm.  
+The size of the magic square can be changed.  
+Multithreading is implemented, one thread is created for each possible value.
 
 ## Output example for a 4x4 : 
 
 ```
-Time : 97.922469895 seconds
+Time : 25.759577584 seconds
 Number of magicSquare : 7040
 First solution : 
 ----------------
