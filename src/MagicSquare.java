@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
  * The MagicSquare program generates valid magic square using branch and bound algorithm.
  *
  * @author Quentin de Longraye <https://github.com/quentinus95>
- * @author Victor Le <https://github.com/SuperCoac>
+ * @author Victor Le <https://github.com/Coac>
  * @version 1.0
  */
 public class MagicSquare {
